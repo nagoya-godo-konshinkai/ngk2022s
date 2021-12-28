@@ -141,7 +141,7 @@ TODO
 <td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋</a></td>
 <td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/julia-tokai.png"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
 <td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/misokatsu-web.png"/><br/><a href="https://miso-katsu.web.app/">みそかつウェブ</a></td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-agile.png"/><br/><a href="https://sites.google.com/site/nagoyaagile">名古屋アジャイル勉強会</a></td>
 <td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
