@@ -145,7 +145,7 @@ TODO
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG名古屋</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-swift-plus_logo.png"/><br/><a href="https://nagoyaswiftplus.connpass.com/">Nagoya.Swift+</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
 </tr>
