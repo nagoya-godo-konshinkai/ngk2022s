@@ -124,32 +124,30 @@ TODO
 # スポンサー（五十音順）
 <table>
 <tr>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/optfit.png"/><br/><a href="https://optfit.jp/">株式会社Opt Fit</a></td>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/denkiyagi.png"/><br/><a href="https://www.denkiyagi.jp/">デンキヤギ株式会社</a></td>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/optfit.png"/><br/><a href="https://optfit.jp/">株式会社Opt Fit</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/denkiyagi.png"/><br/><a href="https://www.denkiyagi.jp/">デンキヤギ株式会社</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 10px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
 # コミュニティ（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋</a></td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/julia-tokai.png"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/misokatsu-web.png"/><br/><a href="https://miso-katsu.web.app/">みそかつウェブ</a></td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-agile.png"/><br/><a href="https://sites.google.com/site/nagoyaagile">名古屋アジャイル勉強会</a></td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/julia-tokai.png"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/misokatsu-web.png"/><br/><a href="https://miso-katsu.web.app/">みそかつウェブ</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-agile.png"/><br/><a href="https://sites.google.com/site/nagoyaagile">名古屋アジャイル勉強会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 6px;"><img width="120px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
