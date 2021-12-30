@@ -144,7 +144,7 @@ TODO
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-agile.png"/><br/><a href="https://sites.google.com/site/nagoyaagile">名古屋アジャイル勉強会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/jaws-ug-nagoya.png"/><br/><a href="https://jawsug-nagoya.doorkeeper.jp/">JAWS-UG名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/nagoya-swift-plus.png"/><br/><a href="https://nagoyaswiftplus.connpass.com/">Nagoya.Swift+</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/jp-stripes-nagoya.png"/><br/><a href="https://www.facebook.com/groups/jpstripes/">JP_Stripes名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://www.othlo.tech/">OthloTech</a></td>
