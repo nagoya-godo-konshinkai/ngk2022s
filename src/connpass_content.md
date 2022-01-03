@@ -83,7 +83,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 | Katz Ueno  | CoderDojo とライフハックにいそしんだ2021年          |
 | n-kats     | 機械学習名古屋研究会の紹介                          |
 | antimon2   | Julia ってこんなことできます(仮)                    |
-| からあげ   | ブラウザでクリエイティブコーディング入門            |
+| からあげ   | AIマリオで全ステージクリアチャレンジ            |
 | Kazuhito00 | Unity Barracuda で ニューラルネットワークの推論やる |
 | SIGMA      | SSR+SPAとNuxt+Vuex                                  |
 | kawaji     | JP_Stripes名古屋紹介                                |
