@@ -150,7 +150,7 @@ TODO
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/denkiyagi.png"/><br/><a href="https://www.denkiyagi.jp/">デンキヤギ株式会社</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/><a href="https://corp.freee.co.jp/">freee株式会社</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/freee.png"/><br/><a href="https://corp.freee.co.jp/">freee株式会社</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
 </tr>
 </table>
