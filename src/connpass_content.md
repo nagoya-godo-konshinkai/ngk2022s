@@ -90,6 +90,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 | kawaji     | JP_Stripes名古屋紹介                                |
 | aua2008    | お雑煮について                                      |
 | ueponx     | Node-REDとSeeedのユーザグループのご紹介（仮）       |
+| HideOkamoto     | WordPressでのwebサイト制作2022       |
 
 
 
