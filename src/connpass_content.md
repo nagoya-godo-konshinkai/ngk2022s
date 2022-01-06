@@ -172,6 +172,13 @@ TODO
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/jp-stripes-nagoya.png"/><br/><a href="https://www.facebook.com/groups/jpstripes/">JP_Stripes名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/othlotech.png"/><br/><a href="https://www.othlo.tech/">OthloTech</a></td>
 </tr>
+
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://www.kintonecafe.com/activities/tags/%E5%B2%90%E9%98%9C">kintone Café 岐阜</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://tokaidolug.colorfultime.net/">東海道らぐ</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
+</tr>
 </table>
 
 
