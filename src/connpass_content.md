@@ -91,6 +91,10 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 | aua2008    | お雑煮について                                      |
 | ueponx     | Node-REDとSeeedのユーザグループのご紹介（仮）       |
 | HideOkamoto     | WordPressでのwebサイト制作2022       |
+| SatoshiMorita	| kintone Caféのご紹介（ノーコードツールkintoneを学びませんか？）|
+| わたやん | 高校「情報」でこんなことやってます |
+| Ryuichirou | 3年ぶりの執筆時のお礼と報告|
+| kaizen_nagoya	| Qiita Advent Calendarを企画して|
 
 
 
