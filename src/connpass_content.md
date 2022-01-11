@@ -154,7 +154,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 </tr>
 
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://www.kintonecafe.com/activities/tags/%E5%B2%90%E9%98%9C">kintone Café 岐阜</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/kintone-cafe-gifu.png"/><br/><a href="https://www.kintonecafe.com/activities/tags/%E5%B2%90%E9%98%9C">kintone Café 岐阜</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/><a href="https://tokaidolug.colorfultime.net/">東海道らぐ</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/community/empty.png"/><br/>準備中</td>
