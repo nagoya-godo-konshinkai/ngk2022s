@@ -127,7 +127,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/><a href="https://www.optimind.tech/">株式会社オプティマインド</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/optfit.png"/><br/><a href="https://optfit.jp/">株式会社Opt Fit</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/><a href="https://corp.moneyforward.com/">株式会社マネーフォワード</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/moneyforward.png"/><br/><a href="https://corp.moneyforward.com/">株式会社マネーフォワード</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/denkiyagi.png"/><br/><a href="https://www.denkiyagi.jp/">デンキヤギ株式会社</a></td>
