@@ -39,18 +39,18 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 | 14:00 | 14:15 | オープニング                                    |               |
 | 14:15 | 15:05 | **LT#1**                                      |               |
 |       |       | Julia ってこんなことできます(仮)                      | antimon2      |
-|       |       | お雑煮について                                   | aua2008       |
 |       |       | AIマリオで全ステージクリアチャレンジ                      | からあげ          |
 |       |       | kintone Caféのご紹介（ノーコードツールkintoneを学びませんか？） | SatoshiMorita |
 |       |       | スポンサーLT                                  | 株式会社マネーフォワード      |
 |       |       | スポンサーLT                                  | デンキヤギ株式会社         |
+|       |       | お雑煮について                                   | aua2008       |
 | 15:05 | 15:15 | 休憩(10分間)                                  |               |
 | 15:15 | 16:05 | **LT#2**                                      |               |
 |       |       | 浸透しない隠れオープンリゾルバ対策                         | tss_ontap     |
 |       |       | CoderDojo とライフハックにいそしんだ2021年                             | Katz Ueno        |
 |       |       | 高校「情報」でこんなことやってます                         | わたやん          |
 |       |       | SSR+SPAとNuxt+Vuex                         | SIGMA         |
-|       |       | スポンサーLT                                  | freee株式会社：moai（山崎遼介）         |
+|       |       | スポンサーLT 「freeeのカジュアル面談を公開します」                                 | freee株式会社：moai（山崎遼介）         |
 |       |       | スポンサーLT                                  | 株式会社オプティマインド      |
 | 16:05 | 16:25 | 休憩(20分間)                                  |               |
 | 16:25 | 17:15 | **LT#3**                                      |               |
@@ -125,7 +125,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 # スポンサー（五十音順）
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/><a href="https://www.optimind.tech/">株式会社オプティマインド</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/optfit.png"/><br/><a href="https://optfit.jp/">株式会社Opt Fit</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/moneyforward.png"/><br/><a href="https://corp.moneyforward.com/">株式会社マネーフォワード</a></td>
 </tr>
