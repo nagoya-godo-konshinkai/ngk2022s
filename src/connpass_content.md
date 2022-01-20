@@ -48,9 +48,9 @@ https://ja.ovice.wiki/f4f646b1ebc64c7aa1113d0555184f71
 oVice会場に入場してから右の方に進むと、壇上があります。壇上の上に配置されているYoutubeアイコンに近づいてから、Youtubueアイコンをクリックすると、LT大会のライブ配信動画を視聴できます。
 https://ja.ovice.wiki/bb7dcea7c319440cac7c99d0e33a4aca
 
-<video controls width="250">
-    <source src="https://nagoya-godo-konshinkai.github.io/ngk2022s/video/ovice-youtube.webm"
-            type="video/webm">
+<video controls width="720">
+    <source src="https://nagoya-godo-konshinkai.github.io/ngk2022s/video/ovice-youtube.mp4"
+            type="video/mp4">
     Sorry, your browser doesn't support embedded videos.
 </video>
 
