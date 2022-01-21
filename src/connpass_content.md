@@ -32,6 +32,35 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 詳細は[コミュニティロゴ掲載募集要項](https://nagoya-godo-konshinkai.github.io/ngk2022s/communities-prospectus.pdf)をご参照ください
 
 
+# メイン会場：バーチャルオフィス「oVice」
+LT大会と懇親会は、バーチャルオフィス「oVice」で開催します。 
+参加者同士の交流ができるので、是非oViceにアクセスして交流をお楽しみください。
+
+oVice会場のURLは、参加登録後にイベントページの「参加者への情報」欄に表示されます。
+イベント開始前でもoVice会場に参加できるので、事前にoViceの機能を触ってみてください。
+
+
+### プロフィール設定
+oViceのプロフィール画像と名前を設定してください。connpassのプロフィールと合わせていただけると幸いです。
+https://ja.ovice.wiki/f4f646b1ebc64c7aa1113d0555184f71
+
+### LT大会の視聴
+oVice会場に入場してから右の方に進むと、壇上があります。壇上の上に配置されているYoutubeアイコンに近づいてから、Youtubueアイコンをクリックすると、LT大会のライブ配信動画を視聴できます。
+https://ja.ovice.wiki/bb7dcea7c319440cac7c99d0e33a4aca
+
+<video controls width="720">
+    <source src="https://nagoya-godo-konshinkai.github.io/ngk2022s/video/ovice-youtube.mp4"
+            type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
+
+### 雑談
+詳細はoViceヘルプページを参照ください。
+https://ja.ovice.wiki/c8e3645e0c12412aafb2809a4841347d
+
+
 
 # タイムテーブル
 | 開始日時  | 終了日時  | 内容                                        | スピーカ          |
@@ -39,19 +68,18 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 | 14:00 | 14:15 | オープニング                                    |               |
 | 14:15 | 15:05 | **LT#1**                                      |               |
 |       |       | Julia ってこんなことできます(仮)                      | antimon2      |
-|       |       | お雑煮について                                   | aua2008       |
 |       |       | AIマリオで全ステージクリアチャレンジ                      | からあげ          |
 |       |       | kintone Caféのご紹介（ノーコードツールkintoneを学びませんか？） | SatoshiMorita |
-|       |       | スポンサーLT                                  | 株式会社マネーフォワード      |
-|       |       | スポンサーLT                                  | デンキヤギ株式会社         |
+|       |       | スポンサーLT「マネーフォワード 名古屋開発拠点の挑戦」               | 株式会社マネーフォワード：名古屋開発拠点長 長島圭祐 (Kei)      |
+|       |       | スポンサーLT                                  | デンキヤギ株式会社：terurou         |
+|       |       | お雑煮について                                   | aua2008       |
 | 15:05 | 15:15 | 休憩(10分間)                                  |               |
 | 15:15 | 16:05 | **LT#2**                                      |               |
 |       |       | 浸透しない隠れオープンリゾルバ対策                         | tss_ontap     |
 |       |       | CoderDojo とライフハックにいそしんだ2021年                             | Katz Ueno        |
 |       |       | 高校「情報」でこんなことやってます                         | わたやん          |
 |       |       | SSR+SPAとNuxt+Vuex                         | SIGMA         |
-|       |       | スポンサーLT                                  | freee株式会社：moai（山崎遼介）         |
-|       |       | スポンサーLT                                  | 株式会社オプティマインド      |
+|       |       | スポンサーLT 「freeeのカジュアル面談を公開します」                                 | freee株式会社：moai（山崎遼介）         |
 | 16:05 | 16:25 | 休憩(20分間)                                  |               |
 | 16:25 | 17:15 | **LT#3**                                      |               |
 |       |       | WordPressでのwebサイト制作2022                   | HideOkamoto   |
@@ -68,6 +96,41 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 |       |       | 3年ぶりの執筆時のお礼と報告                            | Ryuichirou    |
 | 17:55 | 18:00 | クロージング                                    |               |
 
+# 懇親会
+NGK2022Sでは懇親会を「oVice」で開催します。
+LT大会が終了したら、お酒とおつまみを用意してoViceにお集まりください。
+
+【タイムスケジュール】
+* 18:30 乾杯の挨拶
+    * ランダムトークの概要を説明（事前にoViceやtwitterなどで文章の告知も必要になりそう）
+* 18:40 ランダムトーク1回目の告知
+    * 説明内容「ランダムトークを18:50から開催します。参加者はoViceの～に集まってください。」
+    * 参加者をグループに分けて、グループを伝える（詳細は下記参照）
+* 18:45 ラムダムトーク1回目の開始
+* 19:00 ラムダムトーク1回目の終了
+* 19:15 ラムダムトーク2回目の告知
+* 19:20 ラムダムトーク2回目の開始
+* 19:35 ラムダムトーク2回目の終了
+* 19:40 写真撮影 AND 終わりの挨拶(OViceのどこかに集まってもらう)
+* 19:45 スタッフ退出
+
+
+# タイムテーブル
+| 開始日時  |  内容 |
+|-------|-------|
+| 18:30 | 乾杯 |
+| 18:45 | ランダムトーク1回目の開始 |
+| 19:20 | ランダムトーク2回目の開始（余裕があれば） |
+| 19:40 | 記念撮影 |
+| 19:45 | 懇親会1次会終了 |
+
+懇親会2次会はフリーダムです。自由にご歓談ください。
+
+
+### ランダムトーク（勝手に命名）
+懇親会では、ランダムなグループで10～15分会話する「ランダムトーク」という企画を実施いたします。
+皆さま、気軽にご参加ください。
+当日の18:40までに、connpassのイベントに参加申し込みください。
 
 	
 # LTレギュレーション
@@ -125,7 +188,7 @@ NGK2022Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 # スポンサー（五十音順）
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/><a href="https://www.optimind.tech/">株式会社オプティマインド</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/optfit.png"/><br/><a href="https://optfit.jp/">株式会社Opt Fit</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2022s/img/sponsor/moneyforward.png"/><br/><a href="https://corp.moneyforward.com/">株式会社マネーフォワード</a></td>
 </tr>
